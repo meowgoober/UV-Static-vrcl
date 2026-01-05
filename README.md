@@ -11,10 +11,20 @@ This uses WISP technology
 How to use:
 ---
 Fork this repo
+
+
 Go to the Vercel Web UI
+
+
 Sign in with github
+
+
 Deploy the fork
+
+
 Wait for it to deploy and your all done
+
+
 
 
 
